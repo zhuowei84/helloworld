@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:../www"
+      name = "www">
+      <FileRef
+         location = "group:index.html">
+      </FileRef>
+      <FileRef
+         location = "group:phonegap-1.0.0.js">
+      </FileRef>
+   </Group>
+   <FileRef
+      location = "container:">
+   </FileRef>
+</Workspace>
